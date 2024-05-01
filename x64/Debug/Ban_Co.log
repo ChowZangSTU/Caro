@@ -1,0 +1,16 @@
+﻿  banco.cpp
+C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\Ban_Co\banco.cpp(20,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\Ban_Co\banco.cpp(20,35): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\Ban_Co\banco.cpp(201,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\Ban_Co\banco.cpp(233,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\Ban_Co\banco.cpp(331,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\Ban_Co\banco.cpp(455,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\Ban_Co\banco.cpp(467,21): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\Ban_Co\banco.cpp(468,12): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\Ban_Co\banco.cpp(505,24): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\Ban_Co\banco.cpp(506,15): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\Ban_Co\banco.cpp(509,24): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\Ban_Co\banco.cpp(534,24): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\Ban_Co\banco.cpp(535,15): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\Ban_Co\banco.cpp(548,25): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+  Ban_Co.vcxproj -> C:\Users\chaug\Desktop\VNOI\Mat_Ma\Ca_Ro\x64\Debug\Ban_Co.exe
